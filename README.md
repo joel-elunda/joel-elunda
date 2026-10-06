@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <Your Name></h1>
+<h1 align="center">Hi 👋, I'm <Joël Elunda></h1>
 
 <h3 align="center">
   Backend Engineer · Python · Django · DRF · PostgreSQL · TypeScript · React
