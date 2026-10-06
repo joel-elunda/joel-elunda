@@ -5,10 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/joelelunda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:joel.elunda.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,7 +16,7 @@
 - 🔭 Currently building **scalable REST APIs** with **Django REST Framework**
 - 🌱 Learning **system design**, **Celery**, **Redis**, and **Kubernetes**
 - 💬 Ask me about **Django**, **PostgreSQL**, **DRF**, **TypeScript**, **React**
-- 📫 Reach me at **you@example.com**
+- 📫 Reach me at **joel.elunda.01@gmail.com**
 - ⚡ Fun fact: I automate everything I do twice.
 
 ---
